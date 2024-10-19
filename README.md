@@ -26,7 +26,7 @@ Ngoài công việc, tôi thích **[⚽ "Đá banh chứ không đánh ba " ]**.
 Hãy kết nối với tôi qua:
 
 - 📧 **Email**: [ngtai0510@gmail.com]
-- 🌐 **FACEBOOK**: [nguyenngoctai.fb.com]([https://www.linkedin.com/in/yourprofile](https://www.facebook.com/profile.php?id=100015646893305))
+- 🌐 **FACEBOOK**: [https://www.facebook.com/profile.php?id=100015646893305]
 
 Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Tôi rất mong được kết nối và hợp tác cùng bạn! 😊
 ![image](https://github.com/user-attachments/assets/fc278572-7011-4bf8-bb22-0376d66b56cd)
