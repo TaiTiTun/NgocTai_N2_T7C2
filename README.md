@@ -1,23 +1,32 @@
-# Xin chào, tôi là [Nguyễn Ngọc Tài]! 👋
+# Xin chào! Tôi là [Nguyễn Ngọc Tài] 👋
 
-## Giới thiệu về tôi
-Tôi là một  với niềm đam mê về [mô tả về lĩnh vực chuyên môn của bạn, ví dụ: phát triển phần mềm, thiết kế đồ họa, khoa học dữ liệu, v.v.]. Tôi yêu thích việc sáng tạo và giải quyết vấn đề thông qua công nghệ.
+## Về tôi
 
-### Kỹ năng của tôi
-- **Ngôn ngữ lập trình:** [Liệt kê các ngôn ngữ lập trình bạn biết, ví dụ: Python, JavaScript, Java, v.v.]
-- **Công nghệ:** [Liệt kê các công nghệ, công cụ và thư viện bạn sử dụng]
-- **Kỹ năng mềm:** [Liệt kê một vài kỹ năng mềm, ví dụ: làm việc nhóm, giao tiếp, v.v.]
+Tôi là một **[Sinh viên năm 3 với nhiều nguyện vọng còn chưa thực hiện được]** đến từ **[Thành phố Hồ Chí Minh ]**. Tôi đam mê **[Thiết kế đồ họa]** và luôn tìm kiếm những cách mới để cải thiện kỹ năng của mình.
 
-### Dự án nổi bật
-- **[Tên Dự Án 1]:** Mô tả ngắn gọn về dự án này và công nghệ sử dụng.
-- **[Tên Dự Án 2]:** Mô tả ngắn gọn về dự án này và công nghệ sử dụng.
-- **[Tên Dự Án 3]:** Mô tả ngắn gọn về dự án này và công nghệ sử dụng.
+## Kỹ năng
 
-### Kết nối với tôi
-- **Email:** [Địa chỉ email của bạn]
-- **LinkedIn:** [Liên kết đến trang LinkedIn của bạn]
-- **Twitter:** [Liên kết đến tài khoản Twitter của bạn]
-- **Website/Blog:** [Liên kết đến website hoặc blog của bạn, nếu có]
+- **Ngôn ngữ lập trình**: [C#, Javascript]
+- **Công nghệ**: [Visual Studio, SQL ]
+- **Công cụ**: [Git,Figma, GG drive]
 
-### Cảm ơn bạn đã ghé thăm!
-Tôi luôn sẵn lòng học hỏi và chia sẻ kiến thức. Nếu bạn muốn hợp tác hoặc chỉ đơn giản là trò chuyện về công nghệ, hãy liên hệ với tôi!
+## Dự án nổi bật
+
+- **[Tên dự án 1](link-to-project-1)**: [Mô tả ngắn về dự án.]
+- **[Tên dự án 2](link-to-project-2)**: [Mô tả ngắn về dự án.]
+- **[Tên dự án 3](link-to-project-3)**: [Mô tả ngắn về dự án.]
+    chưa có dự án nào trong tay
+
+## Sở thích
+
+Ngoài công việc, tôi thích **[⚽ "Đá banh chứ không đánh ba " ]**. Những sở thích này giúp tôi thư giãn và tìm kiếm cảm hứng sáng tạo.
+
+## Liên hệ
+
+Hãy kết nối với tôi qua:
+
+- 📧 **Email**: [ngtai0510@gmail.com]
+- 🌐 **FACEBOOK**: [nguyenngoctai.fb.com]([https://www.linkedin.com/in/yourprofile](https://www.facebook.com/profile.php?id=100015646893305))
+
+Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Tôi rất mong được kết nối và hợp tác cùng bạn! 😊
+![image](https://github.com/user-attachments/assets/fc278572-7011-4bf8-bb22-0376d66b56cd)
