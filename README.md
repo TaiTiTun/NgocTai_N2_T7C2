@@ -11,11 +11,7 @@ Tôi là một **[Sinh viên năm 3 với nhiều nguyện vọng còn chưa th�
 - **Công cụ**: [Git,Figma, GG drive]
 
 ## Dự án nổi bật
-
-- **[Tên dự án 1](link-to-project-1)**: [Mô tả ngắn về dự án.]
-- **[Tên dự án 2](link-to-project-2)**: [Mô tả ngắn về dự án.]
-- **[Tên dự án 3](link-to-project-3)**: [Mô tả ngắn về dự án.]
-    chưa có dự án nào trong tay
+- Tôi đang có 1 dự án về trang web bán giày ( đang trong quá trình code và sắp hoàn thiện ) 
 
 ## Sở thích
 
